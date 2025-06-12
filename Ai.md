@@ -22,4 +22,36 @@ Bu projeyi geliştirirken ChatGPT (OpenAI) ile aşağıdaki konularda sohbet edi
 - CSS (Bootstrap) kullanımı
 
 **Kullanılan Yapay Zeka Aracı:** ChatGPT (OpenAI)  
-**Tarih:** 2025-06-12  
+---
+
+**Ben:**  
+"Here are your hosting informations: ..." → Hosting bilgilerini sağladım.
+
+**ChatGPT:**  
+`includes/db.php` dosyasının hosting bilgilerime göre güncellenmesi için doğru bağlantı kodunu sundu.
+
+---
+
+**Ben:**  
+"filezilla indirdim ve kurdum. sonraki adıma geçebiliriz."
+
+**ChatGPT:**  
+public_html dizinine hangi dosyaların yüklenmesi gerektiğini, css klasörü gerekip gerekmediğini netleştirdi.
+
+---
+
+**Ben:**  
+"bizim dosyalarda `<link href="css/bootstrap.min.css" rel="stylesheet">` bu satır var. Ne yapmamız gerekiyor?"
+
+**ChatGPT:**  
+Bootstrap CDN kullanımı önerildi ve doğru `<link>` satırı sağlandı.
+
+---
+
+**Ben:**  
+"Kayıt oluşturdum, giriş yaptım, ürün kaydı oluşturdum."
+
+**ChatGPT:**  
+Test adımlarını verdi (listeleme, düzenleme, silme) → tüm işlemlerin çalıştığı teyit edildi.
+
+---
