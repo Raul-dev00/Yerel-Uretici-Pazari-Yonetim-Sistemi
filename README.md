@@ -20,11 +20,6 @@ Bu proje, bir yerel üretici pazarı için üreticilerin ürünlerini yönetebil
 - Session yönetimi (PHP session)
 - Şifreleme: `password_hash()` ve `password_verify()`
 
-## Yapay Zeka Kullanımı
-
-Bu proje sırasında ChatGPT (OpenAI) kullanılarak proje geliştirme aşamalarında destek alınmıştır.  
-Detaylar için `AI.md` dosyasına bakınız.
-
 ## Görseller
 
 # Giriş 
@@ -46,3 +41,8 @@ Detaylar için `AI.md` dosyasına bakınız.
 ![Ekran görüntüsü 2025-06-12 153727](https://github.com/user-attachments/assets/155b4cd5-222c-4616-a1c4-16106c9e99d8)
 
 ## Youtube Linki
+
+## Yapay Zeka Kullanımı
+
+Bu proje sırasında ChatGPT (OpenAI) kullanılarak proje geliştirme aşamalarında destek alınmıştır.  
+Detaylar için `AI.md` dosyasına bakınız.
