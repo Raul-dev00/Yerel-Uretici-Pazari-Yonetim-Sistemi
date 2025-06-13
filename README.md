@@ -41,6 +41,7 @@ Bu proje, bir yerel üretici pazarı için üreticilerin ürünlerini yönetebil
 ![Ekran görüntüsü 2025-06-12 153727](https://github.com/user-attachments/assets/155b4cd5-222c-4616-a1c4-16106c9e99d8)
 
 ## Youtube Linki
+https://www.youtube.com/watch?v=7TlhVGWrpWc
 
 ## Yapay Zeka Kullanımı
 
